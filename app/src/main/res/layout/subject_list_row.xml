@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clickable="true"
+    android:focusable="true"
+    android:orientation="vertical"
+    android:background="#fff"
+    android:padding="15dp">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:textColor="#000000"
+        android:textSize="22dp"
+        app:fontFamily="@font/open_sans"
+        android:textFontWeight="700"/>
+
+    <!--<Button
+        &lt;!&ndash;android:id="@+id/view"
+        android:layout_width="40dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/recycler_button_view"
+        android:text="View"
+        android:textColor="#fff"
+        android:textSize="12dp"
+        app:fontFamily="sans"
+        android:layout_below="@+id/title"&ndash;&gt;/>
+-->
+    <Button
+        android:id="@+id/download"
+        android:background="@drawable/recycler_button_view"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:layout_marginTop="10dp"
+        android:text="Download"
+        android:textColor="#008080"
+        android:textSize="12dp"
+        app:fontFamily="sans"
+
+        android:layout_below="@+id/title"/>
+
+</RelativeLayout>

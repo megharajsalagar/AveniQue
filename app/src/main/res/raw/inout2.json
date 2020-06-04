@@ -1,0 +1,482 @@
+{
+  "branch": [
+    {
+      "name": "computer science",
+      "sems": [
+        {
+          "name": "3",
+          "subject": [
+            {
+              "name": "Digital Electronics",
+              "materials": {
+                "textbooks": [
+                  {
+                    "author_name": "Leach and Malvino",
+                    "pdflink": "branch/computer science/3/Digital Electronics/Textbooks/DIGITAL ELECTRONIS Leach and Malvino.pdf"
+                  },
+                  {
+                    "author_name": "Wassell",
+                    "pdflink": "branch/computer science/3/Digital Electronics/Textbooks/Digital_Electronics Wassel.pdf"
+                  }
+                ],
+                "internal_question_papers": [
+                  {
+                    "paper_name": "IA-1 Question Papers",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "paper_name": "IA-2 Question Papers",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "paper_name": "IA-3 Question Papers",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  }
+                ],
+                "annual_exam_question_papers": [
+                  {
+                    "year": "2015-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "year": "2016-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "year": "2017-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "year": "2018-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "year": "2019-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  }
+                ],
+                "syllabus_copy": [
+                  {
+                    "syllabus_name": "Digital Electronics Syllabus Copy",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  }
+                ],
+                "weightage": [
+                  {
+                    "weightage_name": "Digital Electronics chapterwise weightage",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Data Structure",
+              "materials": {
+                "textbooks": [
+                  {
+                    "author_name": "Vinu v Das",
+                    "pdflink": "branch/computer science/3/Data Structures/Textbooks/principles-of-data-structures-using-c-and-c-v-das-new-age-2008-bbs.pdf"
+                  },
+                  {
+                    "author_name": "Rema thereja",
+                    "pdflink": "branch/computer science/3/Data Structures/Textbooks/rema thareja.pdf"
+                  }
+                ],
+                "internal_question_papers": [
+                  {
+                    "paper_name": "IA-1 Question Papers",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "paper_name": "IA-2 Question Papers",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "paper_name": "IA-3 Question Papers",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  }
+                ],
+                "annual_exam_question_papers": [
+                  {
+                    "year": "2015-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "year": "2016-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "year": "2017-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "year": "2018-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "year": "2019-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  }
+                ],
+                "syllabus_copy": [
+                  {
+                    "syllabus_name": "Data Structure Syllabus Copy",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  }
+                ],
+                "weightage": [
+                  {
+                    "weightage_name": "Data Structure chapterwise weightage",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Descrete Mathematics",
+              "materials": {
+                "textbooks": [
+                  {
+                    "author_name": "Grimaldi",
+                    "pdflink": "branch/computer science/3/Descrete Mathematics/Textbooks/Discrete_and_Combinatorial_Mathematics_5th_ed_-_R._Grimaldi.pdf"
+                  },
+                  {
+                    "author_name": "Kenneth Rosen",
+                    "pdflink": "branch/computer science/3/Descrete Mathematics/Textbooks/DISCRETE MATHEMCS Kenneth Rosen.pdf"
+                  }
+                ],
+                "internal_question_papers": [
+                  {
+                    "paper_name": "IA-1 Question Papers",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "paper_name": "IA-2 Question Papers",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "paper_name": "IA-3 Question Papers",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  }
+                ],
+                "annual_exam_question_papers": [
+                  {
+                    "year": "2015-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "year": "2016-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "year": "2017-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "year": "2018-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "year": "2019-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  }
+                ],
+                "syllabus_copy": [
+                  {
+                    "syllabus_name": "Descrete Mathematics Syllabus Copy",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  }
+                ],
+                "weightage": [
+                  {
+                    "weightage_name": "Descrete Mathematics chapterwise weightage",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Computer Organisation",
+              "materials": {
+                "textbooks": [
+                  {
+                    "author_name": "Carl Hamacher",
+                    "pdflink": "branch/computer science/3/Computer organisation/Textbooks/Carl Hamacher.pdf"
+                  },
+                  {
+                    "author_name": "William Stallings",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  }
+                ],
+                "internal_question_papers": [
+                  {
+                    "paper_name": "IA-1 Question Papers",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "paper_name": "IA-2 Question Papers",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "paper_name": "IA-3 Question Papers",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  }
+                ],
+                "annual_exam_question_papers": [
+                  {
+                    "year": "2015-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "year": "2016-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "year": "2017-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "year": "2018-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "year": "2019-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  }
+                ],
+                "syllabus_copy": [
+                  {
+                    "syllabus_name": "Computer Organisation Syllabus Copy",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  }
+                ],
+                "weightage": [
+                  {
+                    "weightage_name": "Computer Organisation chapterwise weightage",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Mathematics 3",
+              "materials": {
+                "textbooks": [
+                  {
+                    "author_name": "M3-Notes",
+                    "pdflink": "branch/computer science/3/Mathematics 3/Notes/CSE-III-ENGINEERING-MATHEMATICS-III-10MAT31-NOTES (1).pdf"
+                  }
+                ],
+                "internal_question_papers": [
+                  {
+                    "paper_name": "IA-1 Question Papers",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "paper_name": "IA-2 Question Papers",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "paper_name": "IA-3 Question Papers",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  }
+                ],
+                "annual_exam_question_papers": [
+                  {
+                    "year": "2015-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "year": "2016-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "year": "2017-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "year": "2018-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "year": "2019-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  }
+                ],
+                "syllabus_copy": [
+                  {
+                    "syllabus_name": "Mathematics 3 Syllabus Copy",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  }
+                ],
+                "weightage": [
+                  {
+                    "weightage_name": "Mathematics 3 chapterwise weightage",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Unix Shell Programing",
+              "materials": {
+                "textbooks": [
+                  {
+                    "author_name": "Sumitabha Das",
+                    "pdflink": "branch/computer science/3/Unix Shell Programing/Textbooks/unix-book-concepts-and-applicationssumitava-das.pdf"
+                  }
+                ],
+                "internal_question_papers": [
+                  {
+                    "paper_name": "IA-1 Question Papers",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "paper_name": "IA-2 Question Papers",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "paper_name": "IA-3 Question Papers",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  }
+                ],
+                "annual_exam_question_papers": [
+                  {
+                    "year": "2015-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "year": "2016-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "year": "2017-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "year": "2018-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  },
+                  {
+                    "year": "2019-QP",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  }
+                ],
+                "syllabus_copy": [
+                  {
+                    "syllabus_name": "Unix Shell Programing Syllabus Copy",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  }
+                ],
+                "weightage": [
+                  {
+                    "weightage_name": "Unix Shell Programing chapterwise weightage",
+                    "pdflink": "branch/computer science/3/Computer organisation/Computer organisation.pdf"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mechanical",
+      "sems": [
+        {
+          "name": "3",
+          "subject": [
+            {
+              "name": "Basic Thermodynamics",
+              "materials": {
+                "textbooks": [
+                  {
+                    "author_name": "P.K.Nag"
+                  },
+                  {
+                    "author_name": "SeropeKalpakjian,Steven R. Schmid"
+                  }
+                ],
+                "internal_question_papers": [
+                  {
+                    "paper_name": "IA-1 Question Papers"
+                  },
+                  {
+                    "paper_name": "IA-2 Question Papers"
+                  },
+                  {
+                    "paper_name": "IA-3 Question Papers"
+                  }
+                ],
+                "annual_exam_question_papers": [
+                  {
+                    "year": "2015-QP"
+                  },
+                  {
+                    "year": "2016-QP"
+                  },
+                  {
+                    "year": "2017-QP"
+                  },
+                  {
+                    "year": "2018-QP"
+                  },
+                  {
+                    "year": "2019-QP"
+                  }
+                ],
+                "syllabus_copy": "Syllabus Copy",
+                "weightage": "Weightage of chapters"
+              }
+            },
+            {
+              "name": "Basic Manufacturing Process",
+              "materials": {
+                "textbooks": [
+                  {
+                    "author_name": "Leach and Malvino"
+                  },
+                  {
+                    "author_name": "Wassell"
+                  }
+                ],
+                "internal_question_papers": [
+                  {
+                    "paper_name": "IA-1 Question Papers"
+                  },
+                  {
+                    "paper_name": "IA-2 Question Papers"
+                  },
+                  {
+                    "paper_name": "IA-3 Question Papers"
+                  }
+                ],
+                "annual_exam_question_papers": [
+                  {
+                    "year": "2015-QP"
+                  },
+                  {
+                    "year": "2016-QP"
+                  },
+                  {
+                    "year": "2017-QP"
+                  },
+                  {
+                    "year": "2018-QP"
+                  },
+                  {
+                    "year": "2019-QP"
+                  }
+                ],
+                "syllabus_copy": "Syllabus Copy",
+                "weightage": "Weightage of chapters"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+

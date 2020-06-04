@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Academics"
+        android:title="@string/navigation_acad"
+        android:icon="@drawable/ic_library_books_black_24dp" />
+    <!--android:onClick="btn_academics_page"-->
+
+    <item
+        android:id="@+id/Home"
+        android:title="@string/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"/>
+    <!--android:onClick="btn_home_page"-->
+
+    <item
+        android:id="@+id/placement"
+        android:title="@string/navigation_place"
+        android:icon="@drawable/ic_receipt_black_24dp"/>
+    <!--android:onClick="btn_place_page"/>-->
+    <item
+        android:id="@+id/downloads"
+        android:title="@string/navigation_downloads"
+        android:icon="@drawable/ic_file_download_black_24dp"/>
+    <!--android:onClick="btn_place_page"/>-->
+
+
+</menu>

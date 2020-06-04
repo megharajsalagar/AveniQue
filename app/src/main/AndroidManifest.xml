@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.forms">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@drawable/main_icon"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        tools:replace="android:appComponentFactory"
+        android:appComponentFactory="whateverString"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activity.PlacementApptitudeList"></activity>
+        <activity android:name=".activity.Login_form" />
+        <activity android:name=".activity.Profile_page" />
+        <activity android:name=".activity.AnnualExamqp" />
+        <activity android:name=".activity.InternalExamqp" />
+        <activity android:name=".activity.list" />
+        <activity android:name=".activity.semester" />
+        <activity android:name=".activity.subjects" />
+        <activity android:name=".activity.entry" />
+        <activity android:name=".activity.pdfupload" />
+        <activity android:name=".activity.signup_form" />
+        <activity android:name=".activity.MainActivity" />
+        <activity android:name=".activity.Splash_screen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

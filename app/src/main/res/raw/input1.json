@@ -1,0 +1,360 @@
+{
+  "branch": [
+    {
+      "computer science": {
+        "name": "computer science",
+        "sems": [
+          {
+            "sem_name": "3",
+            "subject1": "Digital Electronics",
+            "subject2": "Data Structure",
+            "subject3": "Descrete Mathematics",
+            "subject4": "Computer organisation",
+            "subject5": "Mathematics 3",
+            "subject6": "Unix shell programing"
+          },
+          {
+            "sem_name": "4",
+            "subject1": "Microcontroller",
+            "subject2": "Object Oriented Programing",
+            "subject3": "FAFL",
+            "subject4": "Operating Systems",
+            "subject5": "Mathematics 4",
+            "subject6": "Analysis and design of algorithms"
+          },
+          {
+            "sem_name": "5",
+            "subject1": "Data communication",
+            "subject2": "Compiler Design",
+            "subject3": "DBMS",
+            "subject4": "Software Engineering",
+            "subject5": "Unix System Programming"
+          },
+          {
+            "sem_name": "6",
+            "subject1": "Computer Networks",
+            "subject2": "Advanced Object Oriented Programing",
+            "subject3": "Object Oriented System Modeling and design",
+            "subject4": "Industry Oriented Programing Practice",
+            "subject5": "Artificial Intelligence",
+            "subject6": "Mobile Application Development"
+          },
+          {
+            "sem_name": "7",
+            "subject1": "Engineering Management, Enterprenurship,and intellectual Property Rights ",
+            "subject2": "Advanced Computer Architecture",
+            "subject3": "Computer Graphics",
+            "subject4": "Software Testing",
+            "subject5": "Internet Of Things",
+            "subject6": "Embeded Systems"
+          },
+          {
+            "sem_name": "8",
+            "subject1": "Distributed Systems",
+            "subject2": "cloud computing ",
+            "subject3": "Big Data",
+            "subject4": "Mobile Computing"
+          }
+        ]
+      }
+    },
+    {
+      "branch": {
+        "name": "Mechanical",
+        "sems": [
+          {
+            "sem_name": "3",
+            "subject1": "Basic Thermodynamics",
+            "subject2": "Basic Manufacturing Process",
+            "subject3": "Material Science",
+            "subject4": "Strength of Materials",
+            "subject5": "CAD",
+            "subject6": "Mathematics 3"
+          },
+          {
+            "sem_name": "4",
+            "subject1": "Machine Design",
+            "subject2": " Mechanical Measurements",
+            "subject3": "Fluid Mechanics",
+            "subject4": "Applied Thermodynamics",
+            "subject5": "Manufacturing Technology",
+            "subject6": "Mathematics 4"
+          },
+          {
+            "sem_name": "5",
+            "subject1": "Management, Economics & Intellectual Property Rights.",
+            "subject2": " Kinematics Of Machines",
+            "subject3": "Turbo Machines",
+            "subject4": "Machine Design 2",
+            "subject5": "Fluid Mechanics & Fluid machinery lab ",
+            "subject6": "Internal Combustion Engines"
+          },
+          {
+            "sem_name": "6",
+            "subject1": "Finite Element Methods",
+            "subject2": " Heat Transfer",
+            "subject3": "Dynamic of Machinery",
+            "subject4": "Design and Analysis of experiments",
+            "subject5": "Design & Drawing of Assemblies",
+            "subject6": "Jet Propulsion"
+          },
+          {
+            "sem_name": "7",
+            "subject1": "Mechanical Vibrations",
+            "subject2": "Hydraulics & Pneumatics",
+            "subject3": "Operation Research & Optimization Techniques",
+            "subject4": "Non-conventional Energy Sources",
+            "subject5": "Power Plant Engineering",
+            "subject6": "Total Quality Management"
+          },
+          {
+            "sem_name": "8",
+            "subject1": "Control Engineering",
+            "subject2": "Mechatronics",
+            "subject3": "Design of Heat Exchangers ",
+            "subject4": "Machine Tool Design",
+            "subject5": "Cryogenics",
+            "subject6": "Automotive Engineering"
+          }
+        ]
+      }
+    },
+    {
+      "branch": {
+        "name": "Electrical",
+        "sems": [
+          {
+            "sem_name": "3",
+            "subject1": "Network Analysis",
+            "subject2": "Analog Electronics",
+            "subject3": "Electrical & Electronic Measurements",
+            "subject4": "Digital Electronics",
+            "subject5": "Electrical Power Generation & Transmission",
+            "subject6": "Mathematics 3"
+          },
+          {
+            "sem_name": "4",
+            "subject1": "Signals & Systems",
+            "subject2": "Microcontrollers",
+            "subject3": "Electrical Machines-1 (DC Machines &Transformers)",
+            "subject4": "Control Systems",
+            "subject5": "Electrical Power Distribution & Utilization",
+            "subject6": "Mathematics 4"
+          },
+          {
+            "sem_name": "5",
+            "subject1": "Linear ICs and Applications.",
+            "subject2": " Electrical Machines - 2 (AC & Machines)",
+            "subject3": "Power Electronics",
+            "subject4": "Electromagnetic Theory",
+            "subject5": "Digital Signal Processing ",
+            "subject6": "Renewable Energy Sources"
+          },
+          {
+            "sem_name": "6",
+            "subject1": "Management,Entrepreneurship & Protection of Intellectual Property",
+            "subject2": " Power System Analysis & Stability",
+            "subject3": "High Voltage Engineering",
+            "subject4": "Switchgear and Protection",
+            "subject5": "Digital System Design using VHDL",
+            "subject6": "Object Oriented Programming using C++"
+          },
+          {
+            "sem_name": "7",
+            "subject1": "Computer Techniques in Power Systems",
+            "subject2": "VLSI Circuits and Design",
+            "subject3": "Power System Laboratory (Simulation , Relay and High Voltage Engineering)",
+            "subject4": "Computer communication Networks",
+            "subject5": "Electrical Drawing and CAD",
+            "subject6": "Data Base Management"
+          },
+          {
+            "sem_name": "8",
+            "subject1": "Industrial Drives and Applications",
+            "subject2": "Electrical Machine Design",
+            "subject3": "Electrical Power Quality ",
+            "subject4": "Micro Electro Mechanical Systems",
+            "subject5": "Power System Operation and Control",
+            "subject6": "Modern Power System Protection"
+          }
+        ]
+      }
+    },
+    {
+      "branch": {
+        "name": "Electronics and Communication",
+        "sems": [
+          {
+            "sem_name": "3",
+            "subject1": "Analog Electronic Circuits",
+            "subject2": "Network Analysis",
+            "subject3": "Digital Circuit Design",
+            "subject4": "Signals & Systems",
+            "subject5": "Electromagnetic Theory",
+            "subject6": "Mathematics 3"
+          },
+          {
+            "sem_name": "4",
+            "subject1": "Analog Communication",
+            "subject2": "Control Systems",
+            "subject3": "Linear ICs and Applications",
+            "subject4": "Microcontrollers",
+            "subject5": "HDL Programming Using Verilog",
+            "subject6": "Mathematics 4"
+          },
+          {
+            "sem_name": "5",
+            "subject1": "Information Theory & Coding",
+            "subject2": "Digital Signal Processing",
+            "subject3": "Digital Communication",
+            "subject4": "CMOS VLSI Design",
+            "subject5": "Object Oriented Programming using C++ ",
+            "subject6": "Advanced Digital System Design"
+          },
+          {
+            "sem_name": "6",
+            "subject1": "Management,Entrepreneurship and Intellectual Property Rights",
+            "subject2": "ARM Processor",
+            "subject3": "Analog & Mixed Mode VLSI Design",
+            "subject4": "Microwave & Radar Engineering",
+            "subject5": "VLSI & DSP Systems",
+            "subject6": "Data structure using C++"
+          },
+          {
+            "sem_name": "7",
+            "subject1": "Real Time Operating Systems",
+            "subject2": "ASIC Design",
+            "subject3": "Antenna & Wave Propagation",
+            "subject4": "Computer Communication Networks",
+            "subject5": "Multimedia Communication",
+            "subject6": "Pattern Recognition"
+          },
+          {
+            "sem_name": "8",
+            "subject1": "Wireless Communication",
+            "subject2": "GPU Computing",
+            "subject3": "Low Power VLSI Design"
+          }
+        ]
+      }
+    },
+    {
+      "branch": {
+        "name": "Civil Engineering",
+        "sems": [
+          {
+            "sem_name": "3",
+            "subject1": "Building Construction",
+            "subject2": "Mechanics of Materials",
+            "subject3": "Fluid Mechanics",
+            "subject4": "Basic Surveying",
+            "subject5": "Applied Engineering Geology",
+            "subject6": "Mathematics 3"
+          },
+          {
+            "sem_name": "4",
+            "subject1": "Structural Analysis – I",
+            "subject2": "Advanced Surveying",
+            "subject3": "Hydrology",
+            "subject4": "Building Planning & Drawing",
+            "subject5": "Concrete Technology",
+            "subject6": "Mathematics 4"
+          },
+          {
+            "sem_name": "5",
+            "subject1": "Structural Analysis-II",
+            "subject2": "Design of RC Structural Elements",
+            "subject3": "Geotechnical Engineering – I",
+            "subject4": "Highway Engineering",
+            "subject5": "Irrigation Engineering ",
+            "subject6": "Environmental Engineering - I"
+          },
+          {
+            "sem_name": "6",
+            "subject1": "Management, Entrepreneurship & Protection of Intellectual Property",
+            "subject2": "Geotechnical Engineering–II",
+            "subject3": "Environmental Engineering–II",
+            "subject4": "Quantity Surveying and Estimation",
+            "subject5": "Harbour, Dock & Tunnel Engineering",
+            "subject6": "Railway and Airport Engineering"
+          },
+          {
+            "sem_name": "7",
+            "subject1": "Advanced Design of RC Structures",
+            "subject2": "Design of Pre-Stressed Concrete Structures",
+            "subject3": "Design of Steel Structures-I",
+            "subject4": "Introduction to Bridge Engineering",
+            "subject5": "Underground Structures",
+            "subject6": "Construction Contract Management"
+          },
+          {
+            "sem_name": "8",
+            "subject1": "Design of Steel Structures-II",
+            "subject2": "Earthquake resistant structures",
+            "subject3": "Industrial Waste Water Treatment",
+            "subject4": "Reinforced Earth Structures"
+          }
+        ]
+      }
+    },
+    {
+      "branch": {
+        "name": "Chemical Engineering",
+        "sems": [
+          {
+            "sem_name": "3",
+            "subject1": "Technical Chemistry",
+            "subject2": "Chemical Process Calculations",
+            "subject3": "Fluid Mechanics",
+            "subject4": "Particulate Technology",
+            "subject5": "Chemical Engineering Drawing",
+            "subject6": "Mathematics 3"
+          },
+          {
+            "sem_name": "4",
+            "subject1": "Process Heat Transfer",
+            "subject2": "Chemical Engineering Thermodynamics",
+            "subject3": "Chemical Reaction Engineering – I",
+            "subject4": "Mass Transfer – I",
+            "subject5": "Pollution Control Engineering",
+            "subject6": "Mathematics 4"
+          },
+          {
+            "sem_name": "5",
+            "subject1": "Chemical Reaction Engineering – II",
+            "subject2": "Mass Transfer – II",
+            "subject3": "Chemical Equipment Design",
+            "subject4": "Chemical Plant Utilities and Safety",
+            "subject5": "Food Technology  ",
+            "subject6": "Fertilizer Technology"
+          },
+          {
+            "sem_name": "6",
+            "subject1": "Management, Entrepreneurship & Protection of Intellectual Property",
+            "subject2": "Chemical Process Integration",
+            "subject3": "Process Equipment Design and Drawing",
+            "subject4": "Mass Transfer Laboratory",
+            "subject5": "Petroleum and Petrochemicals",
+            "subject6": "Applied Mathematics in Chemical Engineering"
+          },
+          {
+            "sem_name": "7",
+            "subject1": "Process Dynamics and Control",
+            "subject2": "Chemical Technology",
+            "subject3": "Biochemical Engineering",
+            "subject4": "Transport Phenomena",
+            "subject5": "Process Modeling and Simulation in Chemical Engineering",
+            "subject6": "Wastewater Treatment and Engineering"
+          },
+          {
+            "sem_name": "8",
+            "subject1": "Process Engineering Economics and Management",
+            "subject2": "Solid Waste Management",
+            "subject3": "Instrumental Methods of Analysis",
+            "subject4": "Sugar Technology"
+          }
+        ]
+      }
+    }
+  ]
+}
